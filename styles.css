@@ -1,0 +1,43 @@
+.al-center{
+    text-align: center;
+   
+    
+}
+.heading{
+    text-align: center;
+}
+
+input{
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 8px;
+    
+}
+.buttons{
+    color: white;
+    background-color: black;
+    padding: 8px 12px;
+    margin: 2px;
+    font-size: medium;
+    width: 40px;
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 8px;
+    
+}
+#clear{
+    font-size: large;
+    width: 76px;
+    background-color: red;
+    color: blue;
+}
+#equals{
+    font-size: large;
+    width: 100px;
+    background-color: rgb(66, 91, 173);
+}
+#adds{
+    width:90px ;
+    background-color: grey;
+    color: rgb(1, 14, 17);
+}
