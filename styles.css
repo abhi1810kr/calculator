@@ -1,3 +1,6 @@
+*{
+    background-color: rgb(135, 135, 224);
+}
 .al-center{
     text-align: center;
    
@@ -11,6 +14,8 @@ input{
     padding: 10px;
     border: 2px solid black;
     border-radius: 8px;
+    background-color: white;
+
     
 }
 .buttons{
